@@ -1,0 +1,62 @@
+    1  git help
+    2  git config global user.name "Robin kumar"
+    3  git config --global user.name "Robin kumar"
+    4  git config --global user.email "rkumar@my.okcu.edu"
+    5  mkdir myFirst
+    6  ls
+    7  cd myFirst
+    8  pwd
+    9  vim hello.c
+   10  git init
+   11  ls
+   12  git add .
+   13  git commit
+   14  git status
+   15  vim hello.c
+   16  git status
+   17  vim hello.c
+   18  git status
+   19  git add
+   20  git add .
+   21  git commit
+   22  git status
+   23  git help
+   24  git push
+   25  git remote add hello.c https://github/robin01aug/hello-world
+   26  git push hello.c
+   27  git remote add hello.c https://github/robin01aug/hello-world.git
+   28  git push hello.c
+   29  git remote add hello.c https://github/robin01aug/hello-world.git
+   30  git push hello.c
+   31  git config --global user.name "robin01aug"
+   32  git config --global user.email "robin01aug@gmail.com"
+   33  git remote add hello.c https://github/robin01aug/hello-world.git
+   34  git push hello.c
+   35  git help
+   36  git push
+   37  git remote add hello.c https://github/robin01aug/hello-world.git
+   38  git remote -v
+   39  git remote add hello.c https://github/robin01aug/hello-world
+   40  git push hello.c
+   41  git config --global user.name "robin01aug"
+   42  git config --global user.email "robin01aug@gmail.com
+
+
+git config --global user.email "robin01aug@gmail.com
+   43  git config --global user.email robin01aug@gmail.com
+   44  git remote add hello.c https://github/robin01aug/hello-world.git
+   45  git push hello.c
+   46  hit push
+   47  git push
+   48  git master
+   49  git remote add origin https://github.com/robin01aug/hello-world.git
+   50  git remote add hello.c https://github/robin01aug/hello-world.git
+   51  git push hello.c
+   52  pwd
+   53* git remote add hello.c https://github/robin01
+   54  git status
+   55  ls
+   56  git remote add origin https://github.com/robin01aug/hello-world.git
+   57  git push -u origin master
+   58  git status
+   59  history>myhistory
